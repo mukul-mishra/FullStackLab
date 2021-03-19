@@ -1,0 +1,25 @@
+.ttt{
+    text-align: center;
+    padding-left: 30%;
+}
+
+body{
+    background-image: url("images/headphones_2.jpg");
+    background-size: cover;
+}
+
+#middle{
+    padding-top: 15%;
+    text-align: center;
+}
+
+#bottom{
+    text-align: center;
+    padding-top: 10%;
+}
+
+#butt{
+    margin-left: 200px;
+    display: inline;
+}
+
